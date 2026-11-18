@@ -19,7 +19,7 @@
 - 🎓 I'm a **Software Engineering** student at **Ibmec** in Rio de Janeiro, Brazil.
 - 🚀 I'm working toward becoming a **Full-Stack Developer**, currently focused on **Front-End with React**.
 - 🌱 I learn by building: websites, games and tools that solve real problems.
-- 🌎 Languages: **Portuguese (Native)** | **English (Fluent)**.
+- 🌎 I speak **Portuguese (native)** and **English (C1)**.
 - 💼 **Open to internship opportunities**, on-site in Rio de Janeiro or remote.
 
 ---
@@ -43,7 +43,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [**PKZLabs + OnetoOne**](https://github.com/tikowzin/PFE-projetofrontend) | Website for three fitness and health brands that share one location: a hub page, a page for each brand, and a booking calendar with form validation and saved reservations. | React · React Router · Vite |
-| [**Petravic AI**](https://github.com/tikowzin/Petrovic-EmpresaA) | AI-powered inspection and compliance reports for oil and gas operations: monitors sensor data such as flow, pressure, temperature and vibration, detects anomalies, writes a diagnosis with AI and alerts the responsible team on Telegram. | n8n · MQTT · OpenAI API · Telegram |
+| [**Petravic AI**](https://github.com/tikowzin/petravic) | Predictive maintenance alerts for oil and gas platforms: detects sensor anomalies before failures, writes a diagnosis with two AI agents (OpenAI + Claude), sends it for human validation and alerts every department on Telegram. | JavaScript · MQTT · n8n · OpenAI · Telegram |
 | [**PokéColeção**](https://github.com/tikowzin/pokedex) | A Pokédex powered by the PokéAPI, with search by name or type, favorites saved in the browser and a stats summary of your collection. | HTML · CSS · JavaScript |
 <!-- To add another project, copy the line below, fill it in and delete this comment line
 | [**Name**](https://github.com/tikowzin/REPO-NAME) | What the project does, in one sentence. | Tech |
