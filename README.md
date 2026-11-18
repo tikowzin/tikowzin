@@ -19,7 +19,7 @@
 - 🎓 I'm a **Software Engineering** student at **Ibmec** in Rio de Janeiro, Brazil.
 - 🚀 I'm working toward becoming a **Full-Stack Developer**, currently focused on **Front-End with React**.
 - 🌱 I learn by building: websites, games and tools that solve real problems.
-- 🌎 I speak **Portuguese (native)** and **English (C1)**.
+- 🌎 Languages: **Portuguese (Native)** | **English (Fluent)**.
 - 💼 **Open to internship opportunities**, on-site in Rio de Janeiro or remote.
 
 ---
