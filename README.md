@@ -42,6 +42,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [**PKZLabs + OnetoOne**](https://github.com/tikowzin/PFE-projetofrontend) | Website for three fitness and health brands that share one location: a hub page, a page for each brand, and a booking calendar with form validation and saved reservations. | React · React Router · Vite |
 | [**PokéColeção**](https://github.com/tikowzin/pokedex) | A Pokédex powered by the PokéAPI, with search by name or type, favorites saved in the browser and a stats summary of your collection. | HTML · CSS · JavaScript |
 <!-- To add another project, copy the line below, fill it in and delete this comment line
 | [**Name**](https://github.com/tikowzin/REPO-NAME) | What the project does, in one sentence. | Tech |
@@ -49,6 +50,14 @@
 
 ---
 
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tikowzin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikowzin&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
+
+---
 
 <p align="center">
   <i>"Learning one commit at a time."</i>
