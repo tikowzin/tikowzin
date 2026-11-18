@@ -43,6 +43,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [**PKZLabs + OnetoOne**](https://github.com/tikowzin/PFE-projetofrontend) | Website for three fitness and health brands that share one location: a hub page, a page for each brand, and a booking calendar with form validation and saved reservations. | React · React Router · Vite |
+| [**Petravic AI**](https://github.com/tikowzin/Petrovic-EmpresaA) | AI-powered inspection and compliance reports for oil and gas operations: monitors sensor data such as flow, pressure, temperature and vibration, detects anomalies, writes a diagnosis with AI and alerts the responsible team on Telegram. | n8n · MQTT · OpenAI API · Telegram |
 | [**PokéColeção**](https://github.com/tikowzin/pokedex) | A Pokédex powered by the PokéAPI, with search by name or type, favorites saved in the browser and a stats summary of your collection. | HTML · CSS · JavaScript |
 <!-- To add another project, copy the line below, fill it in and delete this comment line
 | [**Name**](https://github.com/tikowzin/REPO-NAME) | What the project does, in one sentence. | Tech |
